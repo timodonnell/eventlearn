@@ -1,6 +1,7 @@
 Cython==0.21.1
--e git+git@github:timodonnell/eventlearn.git@b1f57bc76020e091bc0145da0bb2df50beb9b905#egg=EventLearn-master
+-e git+git@github:timodonnell/eventlearn.git@2e2300502bb9a9f759f44dc2e6dd8916cb768806#egg=EventLearn-origin/HEAD
 gnureadline==6.3.3
+humanize==0.5.1
 ipdb==0.8
 ipython==2.1.0
 nose==1.3.3
