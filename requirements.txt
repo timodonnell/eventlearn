@@ -1,5 +1,4 @@
 Cython==0.21.1
--e git+git@github:timodonnell/eventlearn.git@2e2300502bb9a9f759f44dc2e6dd8916cb768806#egg=EventLearn-origin/HEAD
 gnureadline==6.3.3
 humanize==0.5.1
 ipdb==0.8
